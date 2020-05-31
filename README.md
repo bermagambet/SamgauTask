@@ -1,1 +1,1 @@
-# SamgauTask
+# Samgau test task.
